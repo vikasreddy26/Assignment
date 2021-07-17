@@ -1,0 +1,7 @@
+This coding challenge is done by using Maven,java,selenium,TestNg and Extent Reports.
+All the generic classes and methods are written under src/main/java/lib package and pageobjects are written under src/main/java/pages package.
+Test scripts are written under src/test/java/testScripts package.
+Test Report and screenshots are saved in target folder.
+Poperties  are written  under Properties.properties.
+For executing the code you need to import the project in eclipse and install TestNg plugin from Eclipse Marketplace.
+After installing the TestNg plugin go to testng.xml in the project and do right click and Run As TestNg Suite.
